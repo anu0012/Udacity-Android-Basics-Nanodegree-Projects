@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan"
+    android:orientation="vertical"
+    tools:context="com.example.anuragsharma.surattourguide.MainActivity">
+
+    <Button
+        style="@style/menu"
+        android:background="@color/red"
+        android:text="@string/place"
+        android:id="@+id/button_places"
+        android:onClick="buttonClick"
+        />
+    <Button
+        style="@style/menu"
+        android:background="@color/green"
+        android:text="@string/temple"
+        android:id="@+id/button_temples"
+        android:onClick="buttonClick"
+        />
+    <Button
+        style="@style/menu"
+        android:background="@color/blue"
+        android:text="@string/restaurants"
+        android:id="@+id/button_restaurants"
+        android:onClick="buttonClick"
+        />
+    <Button
+        style="@style/menu"
+        android:background="@color/purple"
+        android:text="@string/park"
+        android:id="@+id/button_parks"
+        android:onClick="buttonClick"
+        />
+
+</LinearLayout>

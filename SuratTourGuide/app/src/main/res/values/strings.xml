@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Surat Tour Guide</string>
+    <!-- Home Buttons -->
+    <string name="place">Places</string>
+    <string name="temple">Temples</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="park">Parks</string>
+
+    <!-- Parks -->
+    <string name="first_park_name">Gopi Talav</string>
+    <string name="first_park_address">Rustampura,Surat</string>
+    <string name="second_park_name">Sarthana National Park</string>
+    <string name="second_park_address">Anand Nagar, Surat</string>
+    <string name="third_park_name">Sneh Rashmi Botanical Garden</string>
+    <string name="third_park_address">Ugat - Bhesan Road, Ugat, Dahin Nagar</string>
+    <string name="fourth_park_name">Dutch Gardens</string>
+    <string name="fourth_park_address">Dutch Garden Rd, Nanpura, Surat</string>
+
+    <!-- Places -->
+    <string name="first_place_name">Jagdishchandra Bose Aquarium</string>
+    <string name="first_place_address">Behind Star Bazaar,Hazira-Adajan Rd,Adajan</string>
+    <string name="second_place_name">VR Surat</string>
+    <string name="second_place_address">Dumas Road, Magdalla, Surat</string>
+    <string name="third_place_name">Ubharat beach</string>
+    <string name="third_place_address">Navsari District, Surat</string>
+    <string name="fourth_place_name">Dumas Beach</string>
+    <string name="fourth_place_address">Along The Arabian Sea, Surat</string>
+    <string name="fifth_place_name">Dutch Cemetery</string>
+    <string name="fifth_place_address">Katargam, Surat</string>
+    <string name="sixth_place_name">Surat Castle</string>
+    <string name="sixth_place_address">Near Tapi River</string>
+    <string name="seventh_place_name">Tapi River Front</string>
+    <string name="seventh_place_address">Swami Vivekanand Bridge | Bapu Nagar, Adajan Patiya</string>
+    <string name="eighth_place_name">Sardar Patel Museum</string>
+    <string name="eighth_place_address">City Light Road behind science centre, Athwa</string>
+
+    <!-- Restaurants -->
+    <string name="first_restaurant_name">Leonardo Italian Mediterranean Dining</string>
+    <string name="first_restaurant_address">International Business Centre, Near Big Bazaar Piplod</string>
+    <string name="second_restaurant_name">Barbeque Nation</string>
+    <string name="second_restaurant_address">Golden Square, Near Sargam Sopping Centre,Athwa</string>
+    <string name="third_restaurant_name">Mysore Cafe</string>
+    <string name="third_restaurant_address">Daruwala Building, Athwalines</string>
+    <string name="fourth_restaurant_name">Sasumaa Gujarati Thali</string>
+    <string name="fourth_restaurant_address">Mangaldeep Complex, Ring Road, Near R.T.O. Office</string>
+    <string name="fifth_restaurant_name">Kansar Gujarati Thali</string>
+    <string name="fifth_restaurant_address">President Plaza, Ring Road, Near R T O Office, Nanpura</string>
+
+    <!-- Temple -->
+    <string name="first_temple_name">ISKCON Temple</string>
+    <string name="first_temple_address">Rander Road, Jahangirpura, Surat</string>
+    <string name="second_temple_name">Ambika Niketan Temple</string>
+    <string name="second_temple_address">Parle Point, Athwa Lines, Umra Gam, Athwa</string>
+    <string name="third_temple_name">Chintamani Jain Temple</string>
+    <string name="third_temple_address">Morarji Nagar, Shaligram Society, Gorat, Rander</string>
+    <string name="fourth_temple_name">Siddhi Vinayak Mandir</string>
+    <string name="fourth_temple_address">Hazira - Adajan Rd, Adajan Gam, Surat</string>
+    <string name="fifth_temple_name">Ram Madhi</string>
+    <string name="fifth_temple_address">Jahangir Pura, Surat</string>
+</resources>

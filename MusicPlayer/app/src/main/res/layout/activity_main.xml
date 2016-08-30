@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context="com.example.anuragsharma.musicplayer.MainActivity">
+
+        <TextView
+            style="@style/options"
+            android:text="@string/now_playing"
+            android:background="@color/orange"
+            android:id="@+id/now_playing"
+            />
+
+        <TextView
+            style="@style/options"
+            android:text="@string/songs"
+            android:background="@color/yellow"
+            android:id="@+id/songs"
+            />
+
+        <TextView
+            style="@style/options"
+            android:text="@string/genre"
+            android:background="@color/brown"
+            android:id="@+id/genre"
+            />
+
+    <TextView
+        style="@style/options"
+        android:text="@string/playlist"
+        android:background="@color/red"
+        android:id="@+id/playlist"
+        />
+
+    <TextView
+        style="@style/options"
+        android:text="@string/album"
+        android:background="@color/cyan"
+        android:id="@+id/album"
+        />
+    </LinearLayout>
+</ScrollView>

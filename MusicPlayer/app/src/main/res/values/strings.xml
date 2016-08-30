@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <!-- Options on Home Screen -->
+    <string name="now_playing">Now Playing</string>
+    <string name="songs">All Songs</string>
+    <string name="genre">Genres</string>
+    <string name="playlist">Playlist</string>
+    <string name="album">Albums</string>
+    <string name="title_activity_now_playing">now_playing</string>
+    <string name="title_activity_all_songs">all_songs</string>
+    <string name="title_activity_genre">genre</string>
+    <string name="title_activity_playlist">playlist</string>
+    <string name="title_activity_album">album</string>
+    <!-- Description of All Activities -->
+    <string name="desc_now_playing">
+        This activity gives information about the current song. 
+        The user can interact with this activity to forward the song or play/pause the song.
+    </string>
+    <string name="desc_songs">
+        When a user opens this activity,it gives the list of all songs which the user can play.
+        Also user can add
+    </string>
+    <string name="desc_playlist">
+        In this activity,user can see all the playlists and also create new ones.
+    </string>
+    <string name="desc_album">
+        This activity describes all the albums of the songs. A user can play his favourite movie/album song from here.
+    </string>
+    <string name="desc_genre">
+        It categories songs by genres(i.e Hollywood,Bollywood,Rock,Pop etc.)
+    </string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Book Worm</string>
+    <string name="direction">Type in the search field\n to get the results.</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">singlescreenapp</string>
+    <string name="description">Indian Institute of Information Technology and Management (IIITM) in Gwalior, Madhya Pradesh is an autonomous institute set by Government of India, Ministry of Human Resource Development (MHRD) in 1997. It is an effort by MHRD towards creating professionals in areas of management and information technology from the same institute. This institute was created for facilitating higher education, research, and consultancy in areas of information technology (IT) and business management. Initially started as IIITM, this institute was prefixed with ABV in 2002 to honour the then Prime Minister Atal Bihari Vajpayee.</string>
+    <string name="name">Indian Institute of Information Technology and Management</string>
+    <string name="address">ABV – Indian Institute of Information Technology and Management, Morena Link Road, Gwalior – 474010, India. </string>
+    <string name="contact">0751-2449801</string>
+    <string name="mail">director@iiitm.ac.in</string>
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Quizzy</string>
+    <!-- Option B is correct  -->
+    <string name="question_1">Q. Who is the author of the Lord of the Rings Trilogy ?</string>
+    <string name="question_1_option_A">Roald Dahl</string>
+    <string name="question_1_option_B">J.R.R. Tolkien</string>
+    <string name="question_1_option_C">Angie Sage</string>
+    <string name="question_1_option_D">J.K Rowling</string>
+    <!-- Option A is correct  -->
+    <string name="question_2">Q. Who is the author of A Brief History of Seven Killings ?</string>
+    <string name="question_2_option_A">Marlon James</string>
+    <string name="question_2_option_B">Walter Scott</string>
+    <string name="question_2_option_C">George Orwell</string>
+    <string name="question_2_option_D">Thomas Hardy</string>
+    <!-- Option B,C,D are correct  -->
+    <string name="question_3">Q. Which of the following are written by Munshi Premchand?</string>
+    <string name="question_3_option_A">Guide</string>
+    <string name="question_3_option_B">Gaban</string>
+    <string name="question_3_option_C">Manasorovar</string>
+    <string name="question_3_option_D">Godan</string>
+    <!-- Option D is correct  -->
+    <string name="question_4">Q. Who is the author of The Hunger Games ?</string>
+    <string name="question_4_option_A">Herman Melville</string>
+    <string name="question_4_option_B">C.S. Lewis</string>
+    <string name="question_4_option_C">Julian Barnes</string>
+    <string name="question_4_option_D">Suzanne Collins</string>
+    <!-- Option C is correct  -->
+    <string name="question_5">Q. Who is the author of To Kill A Mockingbird ?</string>
+    <string name="question_5_option_A">George Orwell</string>
+    <string name="question_5_option_B">Jean Rhys</string>
+    <string name="question_5_option_C">Harper Lee</string>
+    <string name="question_5_option_D">Thomas Pynchon</string>
+    <!-- Option A is correct  -->
+    <string name="question_6">Q. Who is the writer of The Great Gatsby ?</string>
+    <string name="question_6_option_A">F. Scott Fitzgerald</string>
+    <string name="question_6_option_B">William Golding</string>
+    <string name="question_6_option_C">Joseph Heller</string>
+    <string name="question_6_option_D">John Steinbeck</string>
+    <!-- Fill in the blank -->
+    <string name="question_7">Q. Who is the author of Hamlet ?</string>
+    <string name="ans_7">William Shakespeare</string>
+</resources>
